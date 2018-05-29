@@ -1,0 +1,58 @@
+* {
+    text-align: center;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+header {
+    color: #8000ff;
+    font-size: 50px;
+    font-family: 'Lato', sans-serif;
+}
+
+body {
+    background-color: #b8e1ff;
+}
+
+.container {
+    border: 2px solid red;
+    width: 98%;
+}
+
+.photo {
+    float: left;
+    width: 30%;
+}
+
+#special {
+    border: 2px dashed blue;
+    width: 56%;
+    float: left;
+}
+
+#special2 {
+    border: 2px dashed orange;
+    width: 117%;
+    float: none;
+}
+
+#special3 {
+    border: 2px dashed white;
+    width: 100%;
+    float: none;
+}
+
+img {
+    width: 100%;
+    border: 2px solid black;
+}
+
+p {
+    font-size: 20px;
+}
+
+.text {
+    width: 70%;
+    border: 2px solid;
+    padding: 16px;
+}
